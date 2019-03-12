@@ -1,0 +1,17 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.box {
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.currentTime {
+    position: relative;
+    /* left: 20px; */
+    top: 35px;
+    color: red;
+}

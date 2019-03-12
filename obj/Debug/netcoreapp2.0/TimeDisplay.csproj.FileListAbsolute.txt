@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/nramiscal/Desktop/CSharp/MVC/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
